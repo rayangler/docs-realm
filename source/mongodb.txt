@@ -200,6 +200,8 @@ might resemble the following code:
       { $unset: { _id_realm_transaction: "" } }
    )
 
+.. mongo-web-shell::
+   :version: latest
 
 Related Content
 ---------------
