@@ -107,8 +107,8 @@ extlinks = {
     'guides': ('https://docs.mongodb.com/guides%s', ''),
     'java-sdk': ('https://docs.mongodb.com/realm-sdks/java/10.0.0-BETA.8/%s', ''),
     'kotlin-sdk': ('https://docs.mongodb.com/realm-sdks/kotlin/10.0.0-BETA.8/%s', ''),
-    'swift-sdk': ('https://docs.mongodb.com/realm-sdks/swift/10.0.0/%s', ''),
-    'objc-sdk': ('https://docs.mongodb.com/realm-sdks/objc/10.0.0/%s', ''),
+    'swift-sdk': ('https://docs.mongodb.com/realm-sdks/swift/10.1.0/%s', ''),
+    'objc-sdk': ('https://docs.mongodb.com/realm-sdks/objc/10.1.0/%s', ''),
     'js-sdk': ('https://docs.mongodb.com/realm-sdks/js/latest/%s', ''),
     'dotnet-sdk': ('https://docs.mongodb.com/realm-sdks/dotnet/10.0.0-beta.1/%s', ''),
     # True External Links
@@ -138,9 +138,7 @@ extlinks = {
     'fcm': ('https://firebase.google.com/docs/%s', ''),
     'typescript': ('https://www.typescriptlang.org/%s', ''),
     'node-driver': ('https://mongodb.github.io/node-mongodb-native/3.6/api/%s', ''),
-    'rfc': ('https://tools.ietf.org/html/%s', ''),
     'xamarin': ('https://docs.microsoft.com/en-us/xamarin/%s', ''),
-    
 }
 
 intersphinx_mapping = {}
